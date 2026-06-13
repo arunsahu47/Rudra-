@@ -1,0 +1,10 @@
+{
+  "name": "Rudra AI Assistant",
+  "description": "Real-time voice-to-voice AI assistant",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
